@@ -1,0 +1,19 @@
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.verdana{font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.bullets{
+    list-style-type: none;
+    margin:auto;
+}
+
+.fonts{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center{
+    text-align: center;
+}
